@@ -3,9 +3,9 @@
 ## Roll:201542
 
 
-| Week | Date       | Lab Title       | Objectives                | Tools/Software Used  | Remarks/Observations       |
+| SN| Date       | Lab Title       | Objectives                | Tools/Software Used  | Remarks/Observations       |
 |------|------------|-----------------|---------------------------|-----------------------|-----------------------------|
-| 1    |  NA         |   na              |                           |                       |                             |
+| 1    |  NA         |                |                           |                       |                             |
 | 2    |            |                 |                           |                       |                             |
 | 3    |            |                 |                           |                       |                             |
 | 4    |            |                 |                           |                       |                             |
